@@ -1,0 +1,103 @@
+body {
+    background-color: black;
+}
+header {
+    h1 {
+        color: orangered;
+        text-align: center;
+        margin-bottom: 0;
+
+    }
+    p {
+        color: white;
+        text-align: center;
+        margin-top: 0;
+    }
+}
+.logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+h2 {
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.small {
+    position: relative;
+    left: 150px;
+}
+.medium {
+    position: relative;
+    left: 90px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.left {
+    width: 55%;
+}
+.right {
+    width: 160%;
+    margin-left: 40px;
+}
+.heading {
+    position: absolute;
+    top: 89px;
+    left: 750px;
+}
+.table1 {
+    position: absolute;
+    top: 149px;
+    left: 740px;
+}
+table {
+    color: white;
+}
+.heading1 {
+    position: absolute;
+    top: 248px;
+    left: 750px;
+}
+.table2 {
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+.pizza {
+    position: absolute;
+    top: 400px;
+    right: 450px;
+}
+h3 {
+    color: white;
+}
+.box {
+    position: absolute;
+    top: 160px;
+    left: 1000px;
+
+    width: 300px;
+    height: 250px;
+
+    border: 2px solid white;
+}
+.heading2 {
+    text-align: center;
+}
+.heading3 {
+    text-align: center;
+}
+.heading4 {
+    text-align: center;
+}
+.photo1 {
+    position: absolute;
+    top: 160px;
+    left: 1000px; 
+}
+.photo1{
+    border: 2px solid white;
+}
